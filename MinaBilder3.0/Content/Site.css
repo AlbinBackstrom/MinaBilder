@@ -1,0 +1,221 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+li a {
+    font-family: Cinzel;
+}
+
+    li a:visited {
+        color: black;
+    }
+
+.navbar-brand {
+    padding: 15px 15px 6px 15px;
+    height: 0px;
+    margin-left: 0;
+    line-height: 11px;
+}
+
+@media only screen and (max-width: 769px) {
+    .nav-tabs > li {
+        float: none;
+        margin-bottom: 0px;
+    }
+
+        .nav-tabs > li.active > a, .nav-tabs > li.active > a:focus, .nav-tabs > li.active > a:hover {
+            border: 1px solid #ddd;
+            border-radius: 2px;
+        }
+
+    .nav {
+        margin-top: 4px;
+        margin-bottom: 4px;
+    }
+
+    .footer {
+        width: 100%;
+    }
+
+    .img-size {
+        margin: 0px;
+    }
+
+    .catDropdown {
+        height: 500px;
+    }
+
+    #uploadPreview {
+        width: 100%;
+        height: 100px;
+    }
+}
+
+@media (min-width: 768px) {
+    .navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
+        margin-left: 0;
+    }
+}
+
+.card-footer {
+    text-align: center;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    /* Margin bottom by footer height */
+    margin-bottom: 60px;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: inherit;
+    /* Set the fixed height of the footer here */
+    height: 30px;
+    background-color: #f8f8f8;
+
+    text-align: center;
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, .15), 0 1px 5px rgba(0, 0, 0, .075);
+    border: 1px #e7e7e7 inset;
+}
+
+/***Upload form***/
+#uploadPreview {
+    float: left;
+    height: 300px;
+}
+
+.input-group .form-control {
+    height: 38px;
+}
+
+.catDropdown {
+    height: 30px;
+    width: 100%;
+}
+
+.form-style {
+
+    margin-bottom: 15px;
+
+}
+
+.img-style {
+    border: 2px solid #7a7a7a;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a > img {
+    max-height: 455px;
+}
+
+.img-fluid {
+    margin-bottom: 30px;
+}
+
+.btn-style {
+    float: left;
+  
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+#btn-show-upload-form {
+    margin-bottom: 10px;
+}
+
+#upload-div {
+    display: none;
+}
+
+#btn-show-edit-images-form {
+    margin-bottom: 10px;
+}
+
+.img-edit {
+    width: 100px;
+    height: 100px;
+}
+
+.div-edit-images {
+  
+    margin-top: 40px;
+}
+
+.form-style-edit {
+    margin-top: 18px;
+    margin-left: 110px;
+    top: -112px;
+}
+
+.form-style-edit-dropdown {
+    float: right;
+    margin-right: -572px;
+    margin-top: -203px;
+    width: 85%;
+}
+
+.btn-edit-delete {
+    float: right;
+    margin-right: -421px;
+    margin-top: -150px;
+}
+
+.hr {
+    border: 1px solid black;
+    margin-top: 30px;
+}
+
+.center-login {
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+}
+
+.c-l-input {
+    margin-top: 20px;
+}
+.img-preview{
+    /*position:absolute;*/
+    /*margin-right:800px;*/
+    margin-top: -200px;  
+}
+.upload-form .control-label{
+        text-align: left;
+}
+.register-form  .control-label{
+   text-align:left;
+}
+.register-form {
+   margin-left:350px;
+}

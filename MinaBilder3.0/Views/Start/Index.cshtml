@@ -1,0 +1,60 @@
+﻿
+
+
+<div class="jumbotron">
+    <h1>Mina Bilder</h1>
+    <p class="lead">
+        Här kan du skapa ett bildgalleri. Registrera dig på länken nedan eller klicka på logga in i
+        menyn.
+    </p>
+    <p><a class="btn btn-lg btn-success" href="register.php" role="button">Registrera dig</a></p>
+</div>
+<div class="row">
+    <div class="offset-md-2 col-md-8">
+        <div class="row">
+            <a href="http://webbkurs.ei.hv.se/~alba0008/WBP301/notes/bilder/344H.jpg" data-toggle="lightbox"
+               data-gallery="example-gallery" class="col-sm-4">
+                <img src="http://webbkurs.ei.hv.se/~alba0008/WBP301/notes/bilder/344H.jpg" class="img-fluid">
+            </a>
+            <a href="http://webbkurs.ei.hv.se/~alba0008/WBP301/notes/bilder/345H.jpg" data-toggle="lightbox"
+               data-gallery="example-gallery" class="col-sm-4">
+                <img src="http://webbkurs.ei.hv.se/~alba0008/WBP301/notes/bilder/345H.jpg" class="img-fluid">
+            </a>
+            <a href="http://webbkurs.ei.hv.se/~alba0008/WBP301/notes/bilder/346H.jpg" data-toggle="lightbox"
+               data-gallery="example-gallery" class="col-sm-4">
+                <img src="http://webbkurs.ei.hv.se/~alba0008/WBP301/notes/bilder/346H.jpg" class="img-fluid">
+            </a>
+        </div>
+        <div class="row">
+            <a href="http://webbkurs.ei.hv.se/~alba0008/WBP301/notes/bilder/347H.jpg" data-toggle="lightbox"
+               data-gallery="example-gallery" class="col-sm-4">
+                <img src="http://webbkurs.ei.hv.se/~alba0008/WBP301/notes/bilder/347H.jpg" class="img-fluid">
+            </a>
+            <a href="http://webbkurs.ei.hv.se/~alba0008/WBP301/notes/bilder/348H.jpg" data-toggle="lightbox"
+               data-gallery="example-gallery" class="col-sm-4">
+                <img src="http://webbkurs.ei.hv.se/~alba0008/WBP301/notes/bilder/348H.jpg" class="img-fluid">
+            </a>
+            <a href="http://webbkurs.ei.hv.se/~alba0008/WBP301/notes/bilder/351H.jpg" data-toggle="lightbox"
+               data-gallery="example-gallery" class="col-sm-4">
+                <img src="http://webbkurs.ei.hv.se/~alba0008/WBP301/notes/bilder/351H.jpg" class="img-fluid">
+            </a>
+        </div>
+    </div>
+</div>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js"
+        integrity="sha384-THPy051/pYDQGanwU6poAc/hOdQxjnOEXzbT+OuUAFqNqFjL+4IGLBgCJC3ZOShY"
+        crossorigin="anonymous"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/tether/1.2.0/js/tether.min.js"
+        integrity="sha384-Plbmg8JY28KFelvJVai01l8WyZzrYWG825m+cZ0eDDS1f7d/js6ikvy1+X+guPIB"
+        crossorigin="anonymous"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha.3/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.0.0/ekko-lightbox.js"></script>
+<script>
+
+    $(document).on('click', '[data-toggle="lightbox"]', function (event) {
+        event.preventDefault();
+        $(this).ekkoLightbox();
+    });
+
+</script>

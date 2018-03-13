@@ -1,0 +1,35 @@
+﻿@model List<Images>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@foreach (var item in Model) 
+{
+   
+
+    <a href="Bilder/@item.Path" data-toggle="lightbox" data-title="@item.Titel"
+                         data-footer ="@item.Kommentar"
+                         data-gallery ="example-gallery" class="col-sm-4">
+                       <img src ="Bilder/@item.Path" class="img-fluid img-style">
+                     </a>
+}
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js"
+        integrity="sha384-THPy051/pYDQGanwU6poAc/hOdQxjnOEXzbT+OuUAFqNqFjL+4IGLBgCJC3ZOShY"
+        crossorigin="anonymous"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/tether/1.2.0/js/tether.min.js"
+        integrity="sha384-Plbmg8JY28KFelvJVai01l8WyZzrYWG825m+cZ0eDDS1f7d/js6ikvy1+X+guPIB"
+        crossorigin="anonymous"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha.3/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.0.0/ekko-lightbox.js"></script>
+<script>
+
+    //script tillhörande pluginget Lighbox som skapar galleriet som bilderna visas upp i.
+    $(document).on('click', '[data-toggle="lightbox"]', function (event) {
+        event.preventDefault();
+        $(this).ekkoLightbox();
+    });
+
+</script>

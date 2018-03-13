@@ -1,0 +1,151 @@
+C:\Users\alba0008\Documents\Visual Studio 2015\Projects\MinaBilder3.0\MinaBilder3.0\bin\ApplicationInsights.config
+C:\Users\alba0008\Documents\Visual Studio 2015\Projects\MinaBilder3.0\MinaBilder3.0\bin\roslyn\csc.exe
+C:\Users\alba0008\Documents\Visual Studio 2015\Projects\MinaBilder3.0\MinaBilder3.0\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alba0008\Documents\Visual Studio 2015\Projects\MinaBilder3.0\MinaBilder3.0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alba0008\Documents\Visual Studio 2015\Projects\MinaBilder3.0\MinaBilder3.0\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alba0008\Documents\Visual Studio 2015\Projects\MinaBilder3.0\MinaBilder3.0\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alba0008\Documents\Visual Studio 2015\Projects\MinaBilder3.0\MinaBilder3.0\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alba0008\Documents\Visual Studio 2015\Projects\MinaBilder3.0\MinaBilder3.0\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alba0008\Documents\Visual Studio 2015\Projects\MinaBilder3.0\MinaBilder3.0\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alba0008\Documents\Visual Studio 2015\Projects\MinaBilder3.0\MinaBilder3.0\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alba0008\Documents\Visual Studio 2015\Projects\MinaBilder3.0\MinaBilder3.0\bin\roslyn\vbc.exe
+C:\Users\alba0008\Documents\Visual Studio 2015\Projects\MinaBilder3.0\MinaBilder3.0\bin\roslyn\VBCSCompiler.exe
+C:\Users\alba0008\Documents\Visual Studio 2015\Projects\MinaBilder3.0\MinaBilder3.0\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alba0008\Documents\Visual Studio 2015\Projects\MinaBilder3.0\MinaBilder3.0\bin\MinaBilder3.0.dll.config
+C:\Users\alba0008\Documents\Visual Studio 2015\Projects\MinaBilder3.0\MinaBilder3.0\bin\MinaBilder3.0.dll
+C:\Users\alba0008\Documents\Visual Studio 2015\Projects\MinaBilder3.0\MinaBilder3.0\bin\MinaBilder3.0.pdb
+C:\Users\alba0008\Documents\Visual Studio 2015\Projects\MinaBilder3.0\MinaBilder3.0\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\alba0008\Documents\Visual Studio 2015\Projects\MinaBilder3.0\MinaBilder3.0\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\alba0008\Documents\Visual Studio 2015\Projects\MinaBilder3.0\MinaBilder3.0\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\alba0008\Documents\Visual Studio 2015\Projects\MinaBilder3.0\MinaBilder3.0\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\alba0008\Documents\Visual Studio 2015\Projects\MinaBilder3.0\MinaBilder3.0\bin\Microsoft.AI.Web.dll
+C:\Users\alba0008\Documents\Visual Studio 2015\Projects\MinaBilder3.0\MinaBilder3.0\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\alba0008\Documents\Visual Studio 2015\Projects\MinaBilder3.0\MinaBilder3.0\bin\Microsoft.ApplicationInsights.dll
+C:\Users\alba0008\Documents\Visual Studio 2015\Projects\MinaBilder3.0\MinaBilder3.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alba0008\Documents\Visual Studio 2015\Projects\MinaBilder3.0\MinaBilder3.0\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\alba0008\Documents\Visual Studio 2015\Projects\MinaBilder3.0\MinaBilder3.0\bin\System.Web.Helpers.dll
+C:\Users\alba0008\Documents\Visual Studio 2015\Projects\MinaBilder3.0\MinaBilder3.0\bin\System.Web.Mvc.dll
+C:\Users\alba0008\Documents\Visual Studio 2015\Projects\MinaBilder3.0\MinaBilder3.0\bin\System.Web.Razor.dll
+C:\Users\alba0008\Documents\Visual Studio 2015\Projects\MinaBilder3.0\MinaBilder3.0\bin\System.Web.Webpages.Deployment.dll
+C:\Users\alba0008\Documents\Visual Studio 2015\Projects\MinaBilder3.0\MinaBilder3.0\bin\System.Web.Webpages.dll
+C:\Users\alba0008\Documents\Visual Studio 2015\Projects\MinaBilder3.0\MinaBilder3.0\bin\System.Web.Webpages.Razor.dll
+C:\Users\alba0008\Documents\Visual Studio 2015\Projects\MinaBilder3.0\MinaBilder3.0\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\alba0008\Documents\Visual Studio 2015\Projects\MinaBilder3.0\MinaBilder3.0\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\alba0008\Documents\Visual Studio 2015\Projects\MinaBilder3.0\MinaBilder3.0\bin\Microsoft.AI.Web.xml
+C:\Users\alba0008\Documents\Visual Studio 2015\Projects\MinaBilder3.0\MinaBilder3.0\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\alba0008\Documents\Visual Studio 2015\Projects\MinaBilder3.0\MinaBilder3.0\bin\Microsoft.ApplicationInsights.xml
+C:\Users\alba0008\Documents\Visual Studio 2015\Projects\MinaBilder3.0\MinaBilder3.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alba0008\Documents\Visual Studio 2015\Projects\MinaBilder3.0\MinaBilder3.0\bin\System.Web.Razor.xml
+C:\Users\alba0008\Documents\Visual Studio 2015\Projects\MinaBilder3.0\MinaBilder3.0\bin\System.Web.Webpages.xml
+C:\Users\alba0008\Documents\Visual Studio 2015\Projects\MinaBilder3.0\MinaBilder3.0\bin\System.Web.Webpages.Deployment.xml
+C:\Users\alba0008\Documents\Visual Studio 2015\Projects\MinaBilder3.0\MinaBilder3.0\bin\System.Web.Webpages.Razor.xml
+C:\Users\alba0008\Documents\Visual Studio 2015\Projects\MinaBilder3.0\MinaBilder3.0\bin\System.Web.Helpers.xml
+C:\Users\alba0008\Documents\Visual Studio 2015\Projects\MinaBilder3.0\MinaBilder3.0\bin\System.Web.Mvc.xml
+C:\Users\alba0008\Documents\Visual Studio 2015\Projects\MinaBilder3.0\MinaBilder3.0\obj\Debug\MinaBilder3.0.dll
+C:\Users\alba0008\Documents\Visual Studio 2015\Projects\MinaBilder3.0\MinaBilder3.0\obj\Debug\MinaBilder3.0.pdb
+C:\Users\alba0008\Documents\Visual Studio 2015\Projects\MinaBilder3.0\MinaBilder3.0\bin\EntityFramework.dll
+C:\Users\alba0008\Documents\Visual Studio 2015\Projects\MinaBilder3.0\MinaBilder3.0\bin\EntityFramework.SqlServer.dll
+C:\Users\alba0008\Documents\Visual Studio 2015\Projects\MinaBilder3.0\MinaBilder3.0\bin\EntityFramework.xml
+C:\Users\alba0008\Documents\Visual Studio 2015\Projects\MinaBilder3.0\MinaBilder3.0\bin\EntityFramework.SqlServer.xml
+C:\Users\alba0008\Downloads\MinaBilder3.0 (2)-klar\MinaBilder3.0\MinaBilder3.0\bin\ApplicationInsights.config
+C:\Users\alba0008\Downloads\MinaBilder3.0 (2)-klar\MinaBilder3.0\MinaBilder3.0\bin\roslyn\csc.exe
+C:\Users\alba0008\Downloads\MinaBilder3.0 (2)-klar\MinaBilder3.0\MinaBilder3.0\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alba0008\Downloads\MinaBilder3.0 (2)-klar\MinaBilder3.0\MinaBilder3.0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alba0008\Downloads\MinaBilder3.0 (2)-klar\MinaBilder3.0\MinaBilder3.0\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alba0008\Downloads\MinaBilder3.0 (2)-klar\MinaBilder3.0\MinaBilder3.0\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alba0008\Downloads\MinaBilder3.0 (2)-klar\MinaBilder3.0\MinaBilder3.0\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alba0008\Downloads\MinaBilder3.0 (2)-klar\MinaBilder3.0\MinaBilder3.0\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alba0008\Downloads\MinaBilder3.0 (2)-klar\MinaBilder3.0\MinaBilder3.0\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alba0008\Downloads\MinaBilder3.0 (2)-klar\MinaBilder3.0\MinaBilder3.0\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alba0008\Downloads\MinaBilder3.0 (2)-klar\MinaBilder3.0\MinaBilder3.0\bin\roslyn\vbc.exe
+C:\Users\alba0008\Downloads\MinaBilder3.0 (2)-klar\MinaBilder3.0\MinaBilder3.0\bin\roslyn\VBCSCompiler.exe
+C:\Users\alba0008\Downloads\MinaBilder3.0 (2)-klar\MinaBilder3.0\MinaBilder3.0\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alba0008\Downloads\MinaBilder3.0 (2)-klar\MinaBilder3.0\MinaBilder3.0\bin\MinaBilder3.0.dll.config
+C:\Users\alba0008\Downloads\MinaBilder3.0 (2)-klar\MinaBilder3.0\MinaBilder3.0\bin\MinaBilder3.0.dll
+C:\Users\alba0008\Downloads\MinaBilder3.0 (2)-klar\MinaBilder3.0\MinaBilder3.0\bin\MinaBilder3.0.pdb
+C:\Users\alba0008\Downloads\MinaBilder3.0 (2)-klar\MinaBilder3.0\MinaBilder3.0\bin\EntityFramework.dll
+C:\Users\alba0008\Downloads\MinaBilder3.0 (2)-klar\MinaBilder3.0\MinaBilder3.0\bin\EntityFramework.SqlServer.dll
+C:\Users\alba0008\Downloads\MinaBilder3.0 (2)-klar\MinaBilder3.0\MinaBilder3.0\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\alba0008\Downloads\MinaBilder3.0 (2)-klar\MinaBilder3.0\MinaBilder3.0\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\alba0008\Downloads\MinaBilder3.0 (2)-klar\MinaBilder3.0\MinaBilder3.0\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\alba0008\Downloads\MinaBilder3.0 (2)-klar\MinaBilder3.0\MinaBilder3.0\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\alba0008\Downloads\MinaBilder3.0 (2)-klar\MinaBilder3.0\MinaBilder3.0\bin\Microsoft.AI.Web.dll
+C:\Users\alba0008\Downloads\MinaBilder3.0 (2)-klar\MinaBilder3.0\MinaBilder3.0\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\alba0008\Downloads\MinaBilder3.0 (2)-klar\MinaBilder3.0\MinaBilder3.0\bin\Microsoft.ApplicationInsights.dll
+C:\Users\alba0008\Downloads\MinaBilder3.0 (2)-klar\MinaBilder3.0\MinaBilder3.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alba0008\Downloads\MinaBilder3.0 (2)-klar\MinaBilder3.0\MinaBilder3.0\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\alba0008\Downloads\MinaBilder3.0 (2)-klar\MinaBilder3.0\MinaBilder3.0\bin\System.Web.Helpers.dll
+C:\Users\alba0008\Downloads\MinaBilder3.0 (2)-klar\MinaBilder3.0\MinaBilder3.0\bin\System.Web.Mvc.dll
+C:\Users\alba0008\Downloads\MinaBilder3.0 (2)-klar\MinaBilder3.0\MinaBilder3.0\bin\System.Web.Razor.dll
+C:\Users\alba0008\Downloads\MinaBilder3.0 (2)-klar\MinaBilder3.0\MinaBilder3.0\bin\System.Web.Webpages.Deployment.dll
+C:\Users\alba0008\Downloads\MinaBilder3.0 (2)-klar\MinaBilder3.0\MinaBilder3.0\bin\System.Web.Webpages.dll
+C:\Users\alba0008\Downloads\MinaBilder3.0 (2)-klar\MinaBilder3.0\MinaBilder3.0\bin\System.Web.Webpages.Razor.dll
+C:\Users\alba0008\Downloads\MinaBilder3.0 (2)-klar\MinaBilder3.0\MinaBilder3.0\bin\EntityFramework.xml
+C:\Users\alba0008\Downloads\MinaBilder3.0 (2)-klar\MinaBilder3.0\MinaBilder3.0\bin\EntityFramework.SqlServer.xml
+C:\Users\alba0008\Downloads\MinaBilder3.0 (2)-klar\MinaBilder3.0\MinaBilder3.0\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\alba0008\Downloads\MinaBilder3.0 (2)-klar\MinaBilder3.0\MinaBilder3.0\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\alba0008\Downloads\MinaBilder3.0 (2)-klar\MinaBilder3.0\MinaBilder3.0\bin\Microsoft.AI.Web.xml
+C:\Users\alba0008\Downloads\MinaBilder3.0 (2)-klar\MinaBilder3.0\MinaBilder3.0\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\alba0008\Downloads\MinaBilder3.0 (2)-klar\MinaBilder3.0\MinaBilder3.0\bin\Microsoft.ApplicationInsights.xml
+C:\Users\alba0008\Downloads\MinaBilder3.0 (2)-klar\MinaBilder3.0\MinaBilder3.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alba0008\Downloads\MinaBilder3.0 (2)-klar\MinaBilder3.0\MinaBilder3.0\bin\System.Web.Razor.xml
+C:\Users\alba0008\Downloads\MinaBilder3.0 (2)-klar\MinaBilder3.0\MinaBilder3.0\bin\System.Web.Webpages.xml
+C:\Users\alba0008\Downloads\MinaBilder3.0 (2)-klar\MinaBilder3.0\MinaBilder3.0\bin\System.Web.Webpages.Deployment.xml
+C:\Users\alba0008\Downloads\MinaBilder3.0 (2)-klar\MinaBilder3.0\MinaBilder3.0\bin\System.Web.Webpages.Razor.xml
+C:\Users\alba0008\Downloads\MinaBilder3.0 (2)-klar\MinaBilder3.0\MinaBilder3.0\bin\System.Web.Helpers.xml
+C:\Users\alba0008\Downloads\MinaBilder3.0 (2)-klar\MinaBilder3.0\MinaBilder3.0\bin\System.Web.Mvc.xml
+C:\Users\alba0008\Downloads\MinaBilder3.0 (2)-klar\MinaBilder3.0\MinaBilder3.0\obj\Debug\MinaBilder3.0.csprojResolveAssemblyReference.cache
+C:\Users\alba0008\Downloads\MinaBilder3.0 (2)-klar\MinaBilder3.0\MinaBilder3.0\obj\Debug\MinaBilder3.0.dll
+C:\Users\alba0008\Downloads\MinaBilder3.0 (2)-klar\MinaBilder3.0\MinaBilder3.0\obj\Debug\MinaBilder3.0.pdb
+C:\Users\Albin\Downloads\MinaBilder3.0- Albin Bäckström\MinaBilder3.0\MinaBilder3.0\bin\ApplicationInsights.config
+C:\Users\Albin\Downloads\MinaBilder3.0- Albin Bäckström\MinaBilder3.0\MinaBilder3.0\bin\roslyn\csc.exe
+C:\Users\Albin\Downloads\MinaBilder3.0- Albin Bäckström\MinaBilder3.0\MinaBilder3.0\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Albin\Downloads\MinaBilder3.0- Albin Bäckström\MinaBilder3.0\MinaBilder3.0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Albin\Downloads\MinaBilder3.0- Albin Bäckström\MinaBilder3.0\MinaBilder3.0\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Albin\Downloads\MinaBilder3.0- Albin Bäckström\MinaBilder3.0\MinaBilder3.0\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Albin\Downloads\MinaBilder3.0- Albin Bäckström\MinaBilder3.0\MinaBilder3.0\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Albin\Downloads\MinaBilder3.0- Albin Bäckström\MinaBilder3.0\MinaBilder3.0\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Albin\Downloads\MinaBilder3.0- Albin Bäckström\MinaBilder3.0\MinaBilder3.0\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Albin\Downloads\MinaBilder3.0- Albin Bäckström\MinaBilder3.0\MinaBilder3.0\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Albin\Downloads\MinaBilder3.0- Albin Bäckström\MinaBilder3.0\MinaBilder3.0\bin\roslyn\vbc.exe
+C:\Users\Albin\Downloads\MinaBilder3.0- Albin Bäckström\MinaBilder3.0\MinaBilder3.0\bin\roslyn\VBCSCompiler.exe
+C:\Users\Albin\Downloads\MinaBilder3.0- Albin Bäckström\MinaBilder3.0\MinaBilder3.0\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Albin\Downloads\MinaBilder3.0- Albin Bäckström\MinaBilder3.0\MinaBilder3.0\bin\MinaBilder3.0.dll.config
+C:\Users\Albin\Downloads\MinaBilder3.0- Albin Bäckström\MinaBilder3.0\MinaBilder3.0\bin\MinaBilder3.0.dll
+C:\Users\Albin\Downloads\MinaBilder3.0- Albin Bäckström\MinaBilder3.0\MinaBilder3.0\bin\MinaBilder3.0.pdb
+C:\Users\Albin\Downloads\MinaBilder3.0- Albin Bäckström\MinaBilder3.0\MinaBilder3.0\bin\EntityFramework.dll
+C:\Users\Albin\Downloads\MinaBilder3.0- Albin Bäckström\MinaBilder3.0\MinaBilder3.0\bin\EntityFramework.SqlServer.dll
+C:\Users\Albin\Downloads\MinaBilder3.0- Albin Bäckström\MinaBilder3.0\MinaBilder3.0\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Albin\Downloads\MinaBilder3.0- Albin Bäckström\MinaBilder3.0\MinaBilder3.0\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Albin\Downloads\MinaBilder3.0- Albin Bäckström\MinaBilder3.0\MinaBilder3.0\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Albin\Downloads\MinaBilder3.0- Albin Bäckström\MinaBilder3.0\MinaBilder3.0\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Albin\Downloads\MinaBilder3.0- Albin Bäckström\MinaBilder3.0\MinaBilder3.0\bin\Microsoft.AI.Web.dll
+C:\Users\Albin\Downloads\MinaBilder3.0- Albin Bäckström\MinaBilder3.0\MinaBilder3.0\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Albin\Downloads\MinaBilder3.0- Albin Bäckström\MinaBilder3.0\MinaBilder3.0\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Albin\Downloads\MinaBilder3.0- Albin Bäckström\MinaBilder3.0\MinaBilder3.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Albin\Downloads\MinaBilder3.0- Albin Bäckström\MinaBilder3.0\MinaBilder3.0\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Albin\Downloads\MinaBilder3.0- Albin Bäckström\MinaBilder3.0\MinaBilder3.0\bin\System.Web.Helpers.dll
+C:\Users\Albin\Downloads\MinaBilder3.0- Albin Bäckström\MinaBilder3.0\MinaBilder3.0\bin\System.Web.Mvc.dll
+C:\Users\Albin\Downloads\MinaBilder3.0- Albin Bäckström\MinaBilder3.0\MinaBilder3.0\bin\System.Web.Razor.dll
+C:\Users\Albin\Downloads\MinaBilder3.0- Albin Bäckström\MinaBilder3.0\MinaBilder3.0\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Albin\Downloads\MinaBilder3.0- Albin Bäckström\MinaBilder3.0\MinaBilder3.0\bin\System.Web.Webpages.dll
+C:\Users\Albin\Downloads\MinaBilder3.0- Albin Bäckström\MinaBilder3.0\MinaBilder3.0\bin\System.Web.Webpages.Razor.dll
+C:\Users\Albin\Downloads\MinaBilder3.0- Albin Bäckström\MinaBilder3.0\MinaBilder3.0\bin\EntityFramework.xml
+C:\Users\Albin\Downloads\MinaBilder3.0- Albin Bäckström\MinaBilder3.0\MinaBilder3.0\bin\EntityFramework.SqlServer.xml
+C:\Users\Albin\Downloads\MinaBilder3.0- Albin Bäckström\MinaBilder3.0\MinaBilder3.0\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Albin\Downloads\MinaBilder3.0- Albin Bäckström\MinaBilder3.0\MinaBilder3.0\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Albin\Downloads\MinaBilder3.0- Albin Bäckström\MinaBilder3.0\MinaBilder3.0\bin\Microsoft.AI.Web.xml
+C:\Users\Albin\Downloads\MinaBilder3.0- Albin Bäckström\MinaBilder3.0\MinaBilder3.0\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Albin\Downloads\MinaBilder3.0- Albin Bäckström\MinaBilder3.0\MinaBilder3.0\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Albin\Downloads\MinaBilder3.0- Albin Bäckström\MinaBilder3.0\MinaBilder3.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Albin\Downloads\MinaBilder3.0- Albin Bäckström\MinaBilder3.0\MinaBilder3.0\bin\System.Web.Razor.xml
+C:\Users\Albin\Downloads\MinaBilder3.0- Albin Bäckström\MinaBilder3.0\MinaBilder3.0\bin\System.Web.Webpages.xml
+C:\Users\Albin\Downloads\MinaBilder3.0- Albin Bäckström\MinaBilder3.0\MinaBilder3.0\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Albin\Downloads\MinaBilder3.0- Albin Bäckström\MinaBilder3.0\MinaBilder3.0\bin\System.Web.Webpages.Razor.xml
+C:\Users\Albin\Downloads\MinaBilder3.0- Albin Bäckström\MinaBilder3.0\MinaBilder3.0\bin\System.Web.Helpers.xml
+C:\Users\Albin\Downloads\MinaBilder3.0- Albin Bäckström\MinaBilder3.0\MinaBilder3.0\bin\System.Web.Mvc.xml
+C:\Users\Albin\Downloads\MinaBilder3.0- Albin Bäckström\MinaBilder3.0\MinaBilder3.0\obj\Debug\MinaBilder3.0.csprojResolveAssemblyReference.cache
+C:\Users\Albin\Downloads\MinaBilder3.0- Albin Bäckström\MinaBilder3.0\MinaBilder3.0\obj\Debug\MinaBilder3.0.csproj.CoreCompileInputs.cache
+C:\Users\Albin\Downloads\MinaBilder3.0- Albin Bäckström\MinaBilder3.0\MinaBilder3.0\obj\Debug\MinaBilder3.0.csproj.CopyComplete
+C:\Users\Albin\Downloads\MinaBilder3.0- Albin Bäckström\MinaBilder3.0\MinaBilder3.0\obj\Debug\MinaBilder3.0.dll
+C:\Users\Albin\Downloads\MinaBilder3.0- Albin Bäckström\MinaBilder3.0\MinaBilder3.0\obj\Debug\MinaBilder3.0.pdb

@@ -1,0 +1,108 @@
+﻿
+<!doctype html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <script src="js/bootstrap.js" type="text/javascript"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+          integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
+          integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.1.1.js"
+            integrity="sha256-16cdPddA6VdVInumRGo6IbivbERE8p7CQR3HzTBuELA=" crossorigin="anonymous"></script>
+    <!--Latest compiled and minified JavaScript-->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
+            integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+            crossorigin="anonymous"></script>
+    <!--För lightboxen som är från http://ashleydw.github.io/lightbox/-->
+    <link rel="stylesheet"
+          href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha.3/css/bootstrap.min.css">
+    <link href="//cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.0.0/ekko-lightbox.css" rel="stylesheet">
+    <!--Font för menyn-->
+    <link href='https://fonts.googleapis.com/css?family=Cinzel' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js"
+            integrity="sha384-THPy051/pYDQGanwU6poAc/hOdQxjnOEXzbT+OuUAFqNqFjL+4IGLBgCJC3ZOShY"
+            crossorigin="anonymous"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/tether/1.2.0/js/tether.min.js"
+            integrity="sha384-Plbmg8JY28KFelvJVai01l8WyZzrYWG825m+cZ0eDDS1f7d/js6ikvy1+X+guPIB"
+            crossorigin="anonymous"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha.3/js/bootstrap.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.0.0/ekko-lightbox.js"></script>
+    <meta charset="UTF-8">
+    <link href="~/Content/Site.css" rel="stylesheet" />
+    <title>Document</title>
+</head>
+<body>
+    <div class="container">
+        <nav class="navbar navbar-default">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    @Html.ActionLink("Mina Bilder", "Index", "Start", null, new { @class = "navbar-brand" })
+
+
+                </div>
+                <div class="collapse navbar-collapse" id="myNavbar">
+                    <ul class="nav nav-tabs" role="tablist">
+                        <li role="presentation">
+                            @Html.ActionLink("Bilder", "Index", "Images")
+
+
+                        </li>
+                        <li role="presentation">
+                            @Html.ActionLink("Ladda upp", "Index", "Upload")
+
+
+                        </li>
+                        <li role="presentation">
+                            @Html.ActionLink("Logga In", "Index", "Login")
+
+
+                        </li>
+                        <li role="presentation">
+                            @Html.ActionLink("Registrera", "Index", "Register")
+                        </li>
+                        @if (Context.User.Identity.IsAuthenticated)
+                        {
+                            <li role="presentation" class=" pull-right">
+                                @Html.ActionLink("Logga Ut", "LogOut", "Login")
+                            </li> }
+
+                    
+
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <script>
+            //Sätter class="active" på den aktuella sidan och visar på nav bar-en vilken sida som användaren är inne på.
+            $(document).ready(function () {
+                var url = window.location;
+                // Will only work if string in href matches with location
+                $('ul.nav a[href="' + url + '"]').parent().addClass('active');
+
+                // Will also work for relative and absolute hrefs
+                $('ul.nav a').filter(function () {
+                    return this.href == url;
+                }).parent().addClass('active').parent().parent().addClass('active');
+            });
+
+
+        </script>
+
+        <div class="container body-content">
+            @RenderBody()
+
+        </div>
+    </div>
+</body>
+</html>
